@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Background","path":"sprites/Background/Background.yy",},"order":3,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},"order":0,},
     {"id":{"name":"obj_can","path":"objects/obj_can/obj_can.yy",},"order":4,},
