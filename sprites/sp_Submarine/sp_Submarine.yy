@@ -7,14 +7,14 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 63,
-  "bbox_top": 0,
-  "bbox_bottom": 63,
+  "bbox_left": 13,
+  "bbox_right": 71,
+  "bbox_top": 9,
+  "bbox_bottom": 54,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 64,
+  "width": 85,
   "height": 64,
   "textureGroupId": {
     "name": "Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"864f764a-b71e-4017-809f-f5269b973303","path":"sprites/sp_Submarine/sp_Submarine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"864f764a-b71e-4017-809f-f5269b973303","path":"sprites/sp_Submarine/sp_Submarine.yy",},"LayerId":{"name":"a8068330-bb08-4b5f-8f1b-f2bf8d484649","path":"sprites/sp_Submarine/sp_Submarine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sp_Submarine","path":"sprites/sp_Submarine/sp_Submarine.yy",},"resourceVersion":"1.0","name":"864f764a-b71e-4017-809f-f5269b973303","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cc5d2c5d-1fa1-4d55-8420-e59a7e6cd23b","path":"sprites/sp_Submarine/sp_Submarine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cc5d2c5d-1fa1-4d55-8420-e59a7e6cd23b","path":"sprites/sp_Submarine/sp_Submarine.yy",},"LayerId":{"name":"61edf661-9ccf-4b5f-b64a-080475dfa295","path":"sprites/sp_Submarine/sp_Submarine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sp_Submarine","path":"sprites/sp_Submarine/sp_Submarine.yy",},"resourceVersion":"1.0","name":"cc5d2c5d-1fa1-4d55-8420-e59a7e6cd23b","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sp_Submarine","path":"sprites/sp_Submarine/sp_Submarine.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"2fb816e6-1bb3-45b4-ad71-a60083145413","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"864f764a-b71e-4017-809f-f5269b973303","path":"sprites/sp_Submarine/sp_Submarine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f31b86c1-4783-4820-b61f-123ff45822f5","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cc5d2c5d-1fa1-4d55-8420-e59a7e6cd23b","path":"sprites/sp_Submarine/sp_Submarine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,7 +54,7 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 32,
+    "xorigin": 42,
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a8068330-bb08-4b5f-8f1b-f2bf8d484649","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"61edf661-9ccf-4b5f-b64a-080475dfa295","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
